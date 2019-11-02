@@ -10,7 +10,7 @@ Drop the scripts `sms-host-notification.sh` and `sms-service-notification.sh` in
 Place `cellsyntuser.sh` in */etc/icinga2/* and set the username and password to match your account at
 Cellsynt.
 
-Next you need to define the command in either *commands.conf* or by using Director. Below is an example of
+Next you need to define the commands in either *commands.conf* or by using Director. Below is an example of
 my own *commands.conf* for host notifications.
 
 
