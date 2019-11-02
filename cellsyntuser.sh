@@ -1,0 +1,2 @@
+username=myEpicUser
+password=myEpicPassword
